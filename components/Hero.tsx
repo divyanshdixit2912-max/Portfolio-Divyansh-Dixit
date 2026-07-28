@@ -1,3 +1,4 @@
+"use client";
 import Image from "next/image";
 import portfolioData from "@/data/portfolioData";
 import { useEffect, useState } from "react";
